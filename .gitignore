@@ -1,0 +1,16 @@
+# Node.js dependencies
+src/app/node_modules/
+
+# Python cache
+src/rest/rest/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Database files
+src/db/
+
+# Miscellaneous
+*.log
+*.lock
+.DS_Store
+*.swp
